@@ -1,0 +1,34 @@
+src/*.exe
+src/peppsycoin
+src/peppsycoind
+src/test_peppsycoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.peppsycoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+peppsycoin-qt
+peppsycoin-Qt.app
+
+# Unit-tests
+Makefile.test
+peppsycoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
