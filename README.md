@@ -5,7 +5,7 @@ This i a next generation Coin.
 
 NAME            : Peppsycoin
 
-Coin Target     : 15 Sek
+Coin Target     : 30 Sek
 
 Amount per Block: 95  PSY
 
