@@ -3,8 +3,16 @@ Peppsycoin Wallet
 
 This i a next generation Coin.
 
-It is important that you set the connection Nodes.
+NAME            : Peppsycoin
+Coin Target     : 15 Sek
+Amount per Block: 95  PSY
+Block Halfing   : ALL 788400 Blocks  ( 273.75 Day`s ) 
+Retarget        : ALL 9.5 Blocks
+Total Ammount   : 159 595 959
 
+
+It is important that you set the connection Nodes.
+addnode=5.149.51.217 
 
 Here is an example of the peppsycoin.conf File: Please use the Master Node addnode=5.149.51.217 
 
