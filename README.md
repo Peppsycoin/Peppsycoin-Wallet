@@ -4,10 +4,15 @@ Peppsycoin Wallet
 This i a next generation Coin.
 
 NAME            : Peppsycoin
+
 Coin Target     : 15 Sek
+
 Amount per Block: 95  PSY
+
 Block Halfing   : ALL 788400 Blocks  ( 273.75 Day`s ) 
+
 Retarget        : ALL 9.5 Blocks
+
 Total Ammount   : 159 595 959
 
 
