@@ -45,4 +45,21 @@ maxconnections=20
 addnode=5.149.51.217                            
 
 
+INSTALL INSTRUCTIONS:
+
+LINUX
+
+-->Go to Wallet Path
+
+cd /WalletsPath/Peppsycoin/src/
+make -f  makefile.unix USE_UPNP=
+
+-->After
+
+cd ..
+qmake "USE_UPNP=-"
+make
+
+
+
 
