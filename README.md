@@ -17,7 +17,7 @@ Total Ammount   : 159 595 959
 
 
 It is important that you set the connection Nodes.
-addnode=5.149.51.217 
+addnode=46.127.52.201 
 
 Here is an example of the peppsycoin.conf File: Please use the Master Node addnode=5.149.51.217 
 
